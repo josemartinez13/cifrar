@@ -1,0 +1,49 @@
+body {
+  background: url(https://wallpaperaccess.com/full/1132045.jpg);
+    font-family: Calibri, sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .contenedor {
+    font-family: Arial, Haettenschweiler, sans-serif;
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: url(https://latam.kaspersky.com/content/es-mx/images/repository/isc/2021/encryption-1.jpg);
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  textarea, input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #682424;
+  }
+  
